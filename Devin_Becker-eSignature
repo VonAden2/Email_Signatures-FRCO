@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+  <head>
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<style>
+		  * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        padding: 0;
+      }
+
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: inherit !important;
+      }
+
+      #MessageViewBody a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      p {
+        line-height: inherit;
+      }
+
+      .desktop_hide,
+      .desktop_hide table {
+        mso-hide: all;
+        display: none;
+        max-height: 0px;
+        overflow: hidden;
+      }
+
+      @media (max-width: 620px) {
+        .social_block.desktop_hide .social-table {
+          display: inline-block !important;
+        }
+
+        .row-content {
+          width: 100% !important;
+        }
+
+        .mobile_hide {
+          display: none;
+        }
+
+        .stack .column {
+          width: 100%;
+          display: block;
+        }
+
+        .mobile_hide {
+          min-height: 0;
+          max-height: 0;
+          max-width: 0;
+          overflow: hidden;
+          font-size: 0px;
+        }
+
+        .desktop_hide,
+        .desktop_hide table {
+          display: table !important;
+          max-height: none !important;
+        }
+      }
+		</style>
+	</head>
+	<body>
+		<table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Verdana; min-width: 450px;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+			<tbody>
+				<tr>
+					<td class="" style="">
+						<br /> 
+					</td>
+				</tr>
+				<tr>
+					<td style="height: 10px;">
+					</td>
+				</tr>
+				<tr style="text-align: center;">
+					<td>
+						<h3 style="margin: 0px; font-size: 20px; color: rgb(0, 0, 0);" class="sc-fBuWsC eeihxG">
+							{User.UserName} 
+						</h3>
+						<p style="margin: 0px; color: rgb(0, 0, 0); font-size: 16px; line-height: 24px;" class="sc-fMiknA bxZCMx" font-size="large">
+							<span>{User.JobTitle}</span> 
+						</p>
+						<p style="margin: 0px; font-weight: 500; color: rgb(0, 0, 0); font-size: 16px; line-height: 24px;" class="sc-dVhcbM fghLuF" font-size="large">
+							<span>Becker First Responder Co.</span> 
+						</p>
+						<p style="color: rgb(0, 0, 0); margin: 0px; font-size: 16px; line-height: 24px;" class="sc-eqIVtm kRufpp" font-size="large">
+							<span>&quot;Equipping The Brave&quot;</span> 
+						</p>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Verdana; width: 450px;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+							<tbody>
+								<tr>
+									<td style="height: 30px;">
+									</td>
+								</tr>
+								<tr>
+									<td style="width: 450px; border-bottom: 1px solid rgb(0, 0, 0); border-left: none; display: block; height: 1px; color: rgb(0, 0, 0);" class="sc-jhAzac hmXDXQ" direction="horizontal">
+									</td>
+								</tr>
+								<tr>
+									<td style="height: 30px;">
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Verdana; width: 450px;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+							<tbody>
+								<tr style="vertical-align: middle;">
+									<td>
+										<table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Verdana;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+											<tbody>
+												<tr style="vertical-align: middle; height: 25px;">
+													<td style="vertical-align: middle; width: 30px;">
+														<table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Verdana;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+															<tbody>
+																<tr>
+																	<td style="vertical-align: bottom;">
+																		<span style="display: block; background-color: rgb(0, 0, 0); width: 11px; color: rgb(0, 0, 0);" class="sc-jlyJG bbyJzT"><img style="display: block; background-color: rgb(0, 0, 0); width: 13px; color: rgb(0, 0, 0);" class="sc-iRbamj blSEcj" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/phone-icon-2x.png" /></span> 
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+													<td style="padding: 0px; color: rgb(0, 0, 0);">
+														<a style="text-decoration: none; color: rgb(0, 0, 0); font-size: 12px;" class="sc-gipzik iyhjGb" href="tel:970-592-9011"><span>970-592-9011</span></a><span>&nbsp;</span>|<span>&nbsp;</span><a style="text-decoration: none; color: rgb(0, 0, 0); font-size: 12px;" class="sc-gipzik iyhjGb" href="tel:970-396-3238"><span>{User.PhoneNumber}</span></a> 
+													</td>
+												</tr>
+												<tr style="vertical-align: middle; height: 25px;">
+													<td style="vertical-align: middle; width: 30px;">
+														<table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Verdana;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+															<tbody>
+																<tr>
+																	<td style="vertical-align: bottom;">
+																		<span style="display: block; background-color: rgb(0, 0, 0); width: 11px; color: rgb(0, 0, 0);" class="sc-jlyJG bbyJzT"><img style="display: block; background-color: rgb(0, 0, 0); width: 13px; color: rgb(0, 0, 0);" class="sc-iRbamj blSEcj" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/email-icon-2x.png" /></span> 
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+													<td style="padding: 0px;">
+														<a style="text-decoration: none; color: rgb(0, 0, 0); font-size: 12px;" class="sc-gipzik iyhjGb" href="mailto:devin@beckerfrco.com"><span>{User.EmailAddress}</span></a> 
+													</td>
+												</tr>
+												<tr style="vertical-align: middle; height: 25px;">
+													<td style="vertical-align: middle; width: 30px;">
+														<table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Verdana;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+															<tbody>
+																<tr>
+																	<td style="vertical-align: bottom;">
+																		<span style="display: block; background-color: rgb(0, 0, 0); width: 11px; color: rgb(0, 0, 0);" class="sc-jlyJG bbyJzT"><img style="display: block; background-color: rgb(0, 0, 0); width: 13px; color: rgb(0, 0, 0);" class="sc-iRbamj blSEcj" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/link-icon-2x.png" /></span> 
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+													<td style="padding: 0px;">
+														<a style="text-decoration: none; color: rgb(0, 0, 0); font-size: 12px;" class="sc-gipzik iyhjGb" href="https://www.beckerfrco.com/"><span>www.beckerfrco.com</span></a> 
+													</td>
+												</tr>
+												<tr style="vertical-align: middle; height: 25px;">
+													<td style="vertical-align: middle; width: 30px;">
+														<table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Verdana;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+															<tbody>
+																<tr>
+																	<td style="vertical-align: bottom;">
+																		<span style="display: block; background-color: rgb(0, 0, 0); width: 11px; color: rgb(0, 0, 0);" class="sc-jlyJG bbyJzT"><img style="display: block; background-color: rgb(0, 0, 0); width: 13px; color: rgb(0, 0, 0);" class="sc-iRbamj blSEcj" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/address-icon-2x.png" /></span> 
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+													<td style="padding: 0px;">
+														<span style="font-size: 12px; color: rgb(0, 0, 0);" class="sc-csuQGl CQhxV"><span>128 30th Street, Greeley, Colorado 80631</span></span> 
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+									<td style="width: 15px;">
+									</td>
+									<td style="text-align: right;">
+										<table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Verdana; width: 136.672px;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+											<tbody>
+												<tr>
+													<td>
+														<img style="max-width: 130px; display: inline-block; width: 130px;" class="sc-cHGsZl bHiaRe" role="presentation" src="https://drive.google.com/uc?id=17dCGtyQbam-siKmW80C6QStAHY7LwftV" /> 
+													</td>
+												</tr>
+												<tr>
+													<td style="height: 10px;">
+													</td>
+												</tr>
+												<tr>
+													<td>
+														<table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Verdana; display: inline-block;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+															<tbody>
+																<tr style="text-align: right;">
+																	<td>
+																		<a style="display: inline-block; padding: 0px; background-color: rgb(225, 8, 8); color: rgb(225, 8, 8);" class="sc-hzDkRC kpsoyz" href="https://www.facebook.com/beckerfirstresponderco/"><img style="background-color: rgb(225, 8, 8); max-width: 135px; display: block; height: 24px; color: rgb(225, 8, 8);" class="sc-bRBYWo ccSRck" alt="facebook" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/facebook-icon-2x.png" /></a> 
+																	</td>
+																	<td style="width: 5px;">
+																	</td>
+																	<td>
+																		<a style="display: inline-block; padding: 0px; background-color: rgb(225, 8, 8); color: rgb(225, 8, 8);" class="sc-hzDkRC kpsoyz" href="https://twitter.com/BeckerResponder"><img style="background-color: rgb(225, 8, 8); max-width: 135px; display: block; height: 24px; color: rgb(225, 8, 8);" class="sc-bRBYWo ccSRck" alt="twitter" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/twitter-icon-2x.png" /></a> 
+																	</td>
+																	<td style="width: 5px;">
+																	</td>
+																	<td>
+																		<a style="display: inline-block; padding: 0px; background-color: rgb(225, 8, 8); color: rgb(225, 8, 8);" class="sc-hzDkRC kpsoyz" href="https://www.linkedin.com/company/becker-first-responder-co"><img style="background-color: rgb(225, 8, 8); max-width: 135px; display: block; height: 24px; color: rgb(225, 8, 8);" class="sc-bRBYWo ccSRck" alt="linkedin" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/linkedin-icon-2x.png" /></a> 
+																	</td>
+																	<td style="width: 5px;">
+																	</td>
+																	<td>
+																		<a style="display: inline-block; padding: 0px; background-color: rgb(225, 8, 8); color: rgb(225, 8, 8);" class="sc-hzDkRC kpsoyz" href="https://www.instagram.com/beckerfirstresponderco/"><img style="background-color: rgb(225, 8, 8); max-width: 135px; display: block; height: 24px; color: rgb(225, 8, 8);" class="sc-bRBYWo ccSRck" alt="instagram" src="https://cdn2.hubspot.net/hubfs/53/tools/email-signature-generator/icons/instagram-icon-2x.png" /></a> 
+																	</td>
+																	<td style="width: 5px;">
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<table style="vertical-align: -webkit-baseline-middle; font-size: large; font-family: Verdana; width: 450px;" class="sc-gPEVay eQYmiW" cellspacing="0" cellpadding="0">
+							<tbody>
+								<tr style="color: rgb(255, 255, 255); font-family: Verdana; font-size: large; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+									<td style="height: 30px;">
+									</td>
+								</tr>
+								<tr style="color: rgb(255, 255, 255); font-family: Verdana; font-size: large; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+									<td style="width: 450px; border-bottom: 1px solid rgb(0, 0, 0); border-left: none; display: block; height: 1px; color: rgb(0, 0, 0);" class="sc-jhAzac hmXDXQ" direction="horizontal">
+									</td>
+								</tr>
+								<tr style="color: rgb(255, 255, 255); font-family: Verdana; font-size: large; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+								</tr>
+							</tbody>
+						</table>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+		<p>
+			<a href="https://beckerfrco.com/pages/contact-info">Unsubscribe</a>
+		</p>
+	</body>
+</html>
